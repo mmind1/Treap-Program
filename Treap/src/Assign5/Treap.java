@@ -2,14 +2,6 @@ package Assign5;
 import java.util.Stack;
 import java.util.Random;
 
-// Name: Matt Mindur
-
-/**
- * @author mattmindur
- *
- * @param <E> Generic Type Data
- */
-
 public class Treap <E extends Comparable<E> >{
 	/**
 	 * A private class Node to create and manipulate node
